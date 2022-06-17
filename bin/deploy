@@ -50,7 +50,7 @@ set -e
 echo "Deploying..."
 echo "Source branch: $SRC_BRANCH"
 echo "Deploy branch: $DEPLOY_BRANCH"
-
+exit 1
 read -r -p "Do you want to proceed? [y/N] " response
 if [[ ! $response =~ ^([yY][eE][sS]|[yY])+$ ]]
 then
