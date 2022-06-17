@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2022-06-01 07:59:00-0400
 inline: true
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+<a herf="https://decisionsciences.org/annual-conferences/national-dsi"> DSI </a> submissions for the conference program are now open. Here are the deadlines that will be in effect.  Please note these are hard deadlines.
