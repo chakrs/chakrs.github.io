@@ -1,12 +1,16 @@
 # College
-- degree: Bachelor's (Licence) Degree
-  uni: Spiru Haret University
-  year: 2008 &mdash; 2011
+- degree: Masters of Business Administration
+  uni: Webster University &mdash; Webster Groves, MO
+  year: 2014
   awards:
-  summary: Specialized and graudated in Sociology
+  summary: Specialized and business administration
 
-#High-school
-- degree: High School Degree
-  uni: Stefan Odobleja Theoretical High School
-  year: 2004 &mdash; 2008
-  summary: Specialized and graduated in Mathematics and Computer Science
+- degree: Masters in Compute Science
+  uni: Minnesota State University &mdash; Mankato, MN
+  year: 2005
+  summary: Specialized and computer science
+
+- degree: Bachelor's in Computer Science
+  uni: Minnesota State University &mdash; Mankato, MN
+  year: 2001
+  summary: Specialized and computer science

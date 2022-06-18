@@ -1,24 +1,46 @@
 # Jobs
 # Endava
-- company: Worldpay
-  position: QA Automation Engineer
-  duration: Oct, 2017 &mdash; Present
-  summary: I am a Quality Assurance Automation engineer, currently working on front-end and back-end testing for a worldwide payment solutions provider.<ul><li>Developed new and transitioned old test frameworks with Java, Spring, TestNG, Cucumber, and custom in-house solutions</li><li>Created new features and updated existing functionality for the testing frameworks used by Worldpay services</li><li>Engineered automated test frameworks for web-based tools using Cucumber, Selenium and Spring</li><li>Automated interactions with back-end systems, such as SQL databases or IBM MQ brokers and queues</li><li>Delivered proof of concepts for initiatives such as REST API and Protractor testing as well as CI/CD overhauls</li><li>Acted as Scrum Master for a team of developers and QA automation engineers, while having constant interaction with all the stakeholders across regions</li><li>Organized testing efforts for improved visibility and refined existing documentation</li><li>Took the lead on onboarding new joiners and getting them up to speed with procedures, requirements, and tools</li></ul>
+- company: Walmart Global Tech, Dallas TX
+  position: Sr. Engineering Manager II - Data Platform
+  duration: Mar., 2019 &mdash; Present
+  summary: <ul><li>Leading organization's cloud data lake system, data platform strategy, and execution to build, maintain, and evolve a highly scalable data extraction, transmission, storage, and consumption software platform for analytical use cases complying with California Consumer Privacy Act (CCPA).</li><li> Hiring and managing high-caliber technology talent - coach staff, conduct performance reviews and appraisals, personal development planning, and promoting effective teamwork.</li></ul>
 
-# HSBC
-- company: HSBC
-  position: QA Automation Engineer
-  duration: Sep, 2016 &mdash; Oct, 2017
-  summary: I was a Quality Assurance engineer, responsible for testing and analyzing various internal intiatives.<ul><li>Performed manual and automated testing for internal web application as well as financial analysis of different internal and third-party systems for the large bank</li><li>Took ownership of the quality assurance process and translated requirements into test cases that were executed manually, at first, and then automatically through Selenium and Java</li><li>Collaborated with build and release managers to create CI/CD pipelines for automated tests</li><li>Conveyed test results and statistics into easy to comprehend information for stakeholders to increase confidence in the tool</li><li>Acted as the Scrum Master for the team of developers, organizing the efforts using Agile principles and Scrum methodology</li><li>Performed data analysis and reconciliation for other financial tools developed internally</li></ul>
+- company: Sams Club, Dallas TX
+  position: Principal Software Engineer - Cloud Infra
+  duration: Sep., 2017 &mdash; Mar., 2019
+  summary: <ul><li>Architected Sam's Club's public cloud consumption model, defined the HA/DR strategy for data and application services while championing cloud native development model within the organization of 300 engineers.</li></ul>
 
-# Misys
-- company: Misys Financial Software
-  position: Associate Technical Writer
-  duration:  Nov, 2015 &mdash; Sep, 2016
-  summary: I acted as a technical writer responsible for many different financial software products developed by Misys.<ul><li>Developed, wrote and maintained end-user, system administration, and developer documentation using tools like Adobe FrameMaker or Microsoft Word</li><li>Maintained Online Help portals, while creating new tutorials and release notes using tools like Adobe RoboHelp</li><li>Interacted with different teams across Misys to ensure user needs are met and surpassed with all releases</li><li>Improved the internal strategy of documentation development and came up with new strategic objectives for the department's development</li><li>Ensured client satisfaction through continuous professional development by understanding the product functionality using interviews with matter experts and personal experience</li></ul>
+- company: Walmart eCommerce, Bentonville AR
+  position: Principal Software Engineer - Data Foundation
+  duration: Sep., 2017 &mdash; Mar., 2019
+  summary: <ul><li>Data foundation private cloud product consultant for all messaging (Kafka, JMS), streaming (Storm), search (Elastic), relational (MariaDB) database, NoSQL (Cassandra) database, Cache (Memcached).</li><li> Designed, architected, developed, and led the cloud service model for the in-house implementation of the messaging as a service (JMS and Kafka) offered from Walmart’s private PaaS cloud Platform OneOps. </li></ul>
 
-# Softpedia
-- company: Softpedia
-  position: Content Writer
-  duration: Aug, 2010  &mdash; Oct, 2015
-  summary: I worked as a news editor for Softpedia's Games section, covering everything that happened in interactive entertainment.<ul><li>Documented events in the gaming industry and wrote comprehensive articles about them, their impact, and their possible repercussions on the regular gamer</li><li>Developed the quality standards of the articles written and published on Softpedia</li>Played, reviewed, and documented both important triple-A games but also titles developed by independent studios and teams</li><li>Developed and improved the social media presence of Softpedia's Games division across Facebook, Twitter, YouTube, and many other networks</li><li>Recorded, edited, and uploaded videos using Adobe Premiere, while optimizing, enhancing, and retouching photos and images with Adobe Photoshop</li></ul>
+- company: Walmart, Bentonville AR
+  position: Enterprise Solutions Architect
+  duration: Jan., 2013 &mdash; Feb., 2015
+  summary: <ul><li>Helped to drive the SOA strategy for Walmart and ensured alignment with the business strategy and the expectations of the executive management. </li><li>Lead architect for creating solution architecture for several large programs - created application architecture, deployment architecture, data architecture, and generated project-related artifacts by authoring logical and physical design.</li></ul>
+
+- company: Walmart, Bentonville AR
+  position: Senior Software Engineer - Finance Data
+  duration: Apr., 2011 &mdash; Jan., 2013
+  summary: <ul><li>Led the team to integrate Home Office finance systems with other country’s finance systems such as SAP - built integration layer that handled 100 million events a month.</li></ul>
+
+- company: Microsoft, Redmond WA
+  position: Software Engineer II - IoT Platform
+  duration: July, 2007 &mdash; Apr., 2011
+  summary: <ul><li>Windows Embedded Compact Operating Systems Networked Multimedia features owner, responsible for quarterly feature release to partners.</li></ul>
+
+- company: Thomson Reuters, Minneapolis MN
+  position: Software Engineer - Data Retrieval Platform
+  duration: Aug, 2005 &mdash; June, 2007
+  summary: <ul><li>Worked as a technical lead of NOVUS (a middleware platform for supporting various online products) data retrieval group - ownership of design, development, testing, maintaining, and supporting several NOVUS online services providing APIs for 100s of TPS.</li></ul>
+
+- company: Open Access Technology International, Minneapolis MN
+  position: Software Developer - Energy Trading Platform
+  duration: Sep., 2004 &mdash; Aug., 2005
+  summary: <ul><li>Worked as a member of webRTO team - designed, developed, tested, and maintained online application software confirming secure and reliable transactions for 100s of third party users.</li></ul>
+
+- company: Minnesota State University, Mankato MN
+  position: Web Software Developer
+  duration: Jan., 2001 &mdash; Aug., 2004
+  summary: <ul><li>Designed, developed, tested, deployed and maintained services of the MnSCU system which is an Integrated Statewide Record System (ISRS) of the MN State Colleges & Universities.</li></ul>
