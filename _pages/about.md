@@ -6,7 +6,7 @@ permalink: /
 
 profile:
   align: right
-  image: prof_pic1.jpg
+  image: prof_pic.jpg
   #address: >
   #  <p>ML Neophyte</p>
 
