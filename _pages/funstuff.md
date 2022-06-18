@@ -3,7 +3,7 @@ layout: table
 permalink: /funstuff/
 title: funstuff
 description: Half Marathons
-nav: true
+nav: false
 nav_order: 5
 ---
 
