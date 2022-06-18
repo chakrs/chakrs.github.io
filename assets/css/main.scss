@@ -7,9 +7,12 @@
 $max-content-width: {{ site.max_width }};
 
 @import
+  "normalize",
+  "mixins",
   "variables",
   "themes",
   "layout",
   "base",
-  "distill"
+  "distill",
+  "resume"
 ;
