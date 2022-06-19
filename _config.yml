@@ -85,9 +85,9 @@ panelbear_analytics:  # panelbear analytics site ID (format: XXXXXXXXX)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: MLNeophyte # blog_name will be displayed in your blog page
+blog_name: MLNeophyte blog # blog_name will be displayed in your blog page
 blog_nav_title: blog # your blog must have a title for it to be displayed in the nav bar
-blog_description: a simple whitespace theme for academics
+blog_description: #a simple whitespace theme for academics
 permalink: /blog/:year/:title/
 
 # Pagination
@@ -282,7 +282,7 @@ enable_medium_zoom:         true   # enables image zoom feature (as on medium.co
 # -----------------------------------------------------------------------------
 resume_avatar:                  "false"
 resume_name:                    "Shuvro Chakrobartty"
-resume_title:                   "Software Engineering Leader" #"Software, Data Engineering and Transformation Leader"
+resume_title:                   "Software and Data Engineering Leader"
 resume_contact_email:           "me@gmail.com"
 resume_header_contact_info:     ""
 resume_header_intro:            "<p>I have a history of successful leadership experiences designing and delivering innovative technology capabilities, which have resulted in significant business outcomes and organizational transformations that increased revenue, market share growth, and deepened customer engagement and brand loyalty.</p>"
