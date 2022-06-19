@@ -178,6 +178,26 @@
       <!-- end Associations -->
       {% endif %}
 
+      {% if site.resume_section_certification %}
+      <!-- begin certifications -->
+      <section class="content-section">
+
+        <header class="section-header">
+          <h3>Certification</h3>
+        </header>
+
+        {% for certification in site.data.certifications %}
+        <div class="resume-item">
+          <h4 class="resume-item-title"><a href="{{ certification.url }}">{{ certification.certificate }}</a></h4>
+          <!-- <h5 class="resume-item-details">{{ association.role }} &bull; {{ association.year }}</h5> -->
+          <p class="resume-item-copy">{{ certification.description }}</p>
+        </div>
+        {% endfor %}
+
+      </section>
+      <!-- end certifications -->
+      {% endif %}
+
       {% if site.resume_section_links %}
       <!-- begin Links -->
       <section class="content-section">
