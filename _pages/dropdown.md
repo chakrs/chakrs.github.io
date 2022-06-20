@@ -1,13 +1,13 @@
 ---
 layout: page
-title: submenus
-nav: false
-nav_order: 3
+title: funstuff
+nav: true
+nav_order: 6
 dropdown: true
 children:
-    - title: publications
-      permalink: /publications/
-    - title: divider
-    - title: projects
-      permalink: /projects/
+    - title: half marathon
+      permalink: /half_marathon/
+#    - title: divider
+#    - title: projects
+#      permalink: /projects/
 ---

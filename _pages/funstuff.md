@@ -1,12 +1,12 @@
 ---
-layout: table
+layout: half-marathon
 permalink: /funstuff/
 title: funstuff
-description: Half Marathons
+description: I enjoy training for and running half marathons; Here are some recent half marathon runs that I did... although not great time performance, I am glad that I did it.
 nav: false
 nav_order: 5
 ---
-
+<!--
 <table>
   {% for row in site.data.half_marathons %}
     {% if forloop.first %}
@@ -22,3 +22,4 @@ nav_order: 5
     {% endtablerow %}
   {% endfor %}
 </table>
+-->
