@@ -1,25 +1,13 @@
 ---
-layout: half-marathon
-permalink: /funstuff/
+layout: page
 title: funstuff
-description: I enjoy training for and running half marathons; Here are some recent half marathon runs that I did... although not great time performance, I am glad that I did it.
-nav: false
-nav_order: 5
+nav: true
+nav_order: 7
+dropdown: true
+children:
+    - title: half marathon
+      permalink: /half_marathon/
+#    - title: divider
+#    - title: projects
+#      permalink: /projects/
 ---
-<!--
-<table>
-  {% for row in site.data.half_marathons %}
-    {% if forloop.first %}
-    <tr>
-      {% for pair in row %}
-        <th>{{ pair[0] }}</th>
-      {% endfor %}
-    </tr>
-    {% endif %}
-
-    {% tablerow pair in row %}
-      {{ pair[1] }}
-    {% endtablerow %}
-  {% endfor %}
-</table>
--->
