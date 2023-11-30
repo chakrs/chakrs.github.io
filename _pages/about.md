@@ -11,12 +11,12 @@ profile:
   #  <p>ML Neophyte</p>
 
 news: false  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-My passion lies in harnessing the power of data and AI to solve real-world challenges, driving growth, efficiency, and competitive advantage. I believe in the transformative potential of Big Data and ML and am committed to guiding teams in unlocking their full potential. 
+I am fueled by a deep passion for unleashing the potential of data and AI to conquer real-world challenges, propelling growth, efficiency, and a distinct competitive edge. My unwavering belief in the transformative power of Big Data and ML fuels my commitment to guiding teams toward unlocking their fullest potential.
 
-With a strong foundation in managing large-scale data operations, enabling cutting-edge ML solutions, and fostering innovation, I am dedicated to staying at the forefront of technological advancements. Let's connect and explore how we can navigate the ever-evolving landscape of data and AI to achieve remarkable outcomes.
+Drawing from a robust foundation in orchestrating expansive data operations, implementing cutting-edge ML solutions, and fostering a culture of innovation, my dedication is anchored in remaining at the vanguard of technological progress. Let's establish a connection to collaboratively navigate the ever-evolving terrain of data and AI, charting a course for extraordinary achievements.
 
-I am an experienced engineering leader with a demonstrated history of delivering value for the enterprise by empowering teams. I also have extensive experience in Cloud Computing, Software Development, Data Platform, DevOps/Agile transformation, and building highly reliable cloud solutions leveraging best-of-breed technologies and methodologies.
+I bring to the table extensive leadership experience, evidenced by a track record of delivering substantial value to enterprises through team empowerment. My proficiency spans Cloud Computing, Software Development, Data Platform, DevOps/Agile transformation, and the adept construction of highly dependable cloud solutions, harnessing the prowess of best-of-breed technologies and methodologies.
