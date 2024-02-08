@@ -57,15 +57,14 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # -----------------------------------------------------------------------------
 
 github_username: chakrs # your GitHub user name
-gitlab_username: # your GitLab user name
-twitter_username: MLNeophyte # your Twitter handle
+#twitter_username: MLNeophyte # your Twitter handle
 linkedin_username: shuvro # your LinkedIn user name
-scholar_userid: XAKzoY0AAAAJ # your Google Scholar ID
+#scholar_userid: XAKzoY0AAAAJ # your Google Scholar ID
 orcid_id: # your ORCID ID
-medium_username: mlneophyte # your Medium username
+#medium_username: mlneophyte # your Medium username
 quora_username: # your Quora username
 publons_id: # your ID on Publons
-research_gate_profile: Shuvro-Chakrobartty # your profile on ResearchGate
+#research_gate_profile: Shuvro-Chakrobartty # your profile on ResearchGate
 blogger_url: http://neophyteat.blogspot.com # your blogger URL
 work_url: # work page URL
 keybase_username: # your keybase user name
