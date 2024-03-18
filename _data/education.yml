@@ -1,18 +1,15 @@
 # College
-#- degree: PhD, Information Systems - Data Analytics
-#  uni: Dakota State University &mdash; Madison, SD
-  #year: 2023
-#  summary: Specialized in data analytics and machine learning, advanced algorithm development, deep data analysis, and implementing cutting-edge solutions for data-driven decision-making. Proficient in optimizing data systems and providing strategic insights for enhanced business performance, with a focus on driving innovation and achieving objectives in the dynamic landscape of data science.
+- degree: PhD, Information Systems - Data Analytics
+  uni: Dakota State University &mdash; Madison, SD
+  summary: Specialized in data analytics and machine learning, advanced algorithm development, deep data analysis, and implementing cutting-edge solutions for data-driven decision-making. Proficient in optimizing data systems and providing strategic insights for enhanced business performance, with a focus on driving innovation and achieving objectives in the dynamic landscape of data science.
 
 - degree: Masters of Business Administration
   uni: Webster University &mdash; Webster Groves, MO
-  #year: 2014
   #awards:
   summary: Specialized in business administration with social and governance framework for modern organizations, identifying and evaluating opportunities, creating implementation plans, managing business processes and providing decision support.
 
 - degree: Masters in Compute Science
   uni: Minnesota State University &mdash; Mankato, MN
-  #year: 2005
   summary: Specialized in Computer Science with theory of computation, data structure and algorithms design, advanced networking & databases as well as software design concepts and projects.
 
 - degree: Bachelor's in Computer Science

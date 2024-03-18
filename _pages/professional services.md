@@ -1,7 +1,7 @@
 ---
 layout: page
 title: professional services
-nav: false
+nav: true
 nav_order: 6
 dropdown: true
 children:

@@ -2,7 +2,7 @@
 layout: reviewer
 permalink: /reviewer/
 title: reviewer
-description: Professional conference for which I have reviewed submissions
+description: Professional conference and books for which I have reviewed submissions
 nav: false
 nav_order: 1
 ---

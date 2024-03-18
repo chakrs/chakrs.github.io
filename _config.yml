@@ -6,7 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Shuvro
 middle_name:
 last_name: Chakrobartty
-email: me@MLNeophyte.com
+email: me@shuvro.net
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   ML Neophyte site.
   ML Neophyte site.
@@ -19,8 +19,8 @@ keywords: Analytics, AI, ML, Big Data, Decision Support Systems, Software & Syst
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
-url: https://chakrs.github.io # the base hostname & protocol for your site
-baseurl: /chakrs.github.io # the subpath of your site, e.g. /blog/
+url: https://chakrs.github.io # the base hostname & protocol for the site
+baseurl: /chakrs.github.io # the subpath of the site, e.g. /blog/
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 
@@ -64,7 +64,7 @@ orcid_id: # your ORCID ID
 #medium_username: mlneophyte # your Medium username
 quora_username: # your Quora username
 publons_id: # your ID on Publons
-#research_gate_profile: Shuvro-Chakrobartty # your profile on ResearchGate
+research_gate_profile: Shuvro-Chakrobartty # your profile on ResearchGate
 blogger_url: http://neophyteat.blogspot.com # your blogger URL
 work_url: # work page URL
 keybase_username: # your keybase user name
@@ -261,7 +261,7 @@ jekyll-diagrams:
 # Optional Features
 # -----------------------------------------------------------------------------
 
-enable_google_analytics:    false  # enables google analytics
+enable_google_analytics:    true  # enables google analytics
 enable_panelbear_analytics: false  # enables panelbear analytics
 enable_google_verification: false  # enables google site verification
 enable_bing_verification:   false  # enables bing site verification
@@ -281,7 +281,7 @@ enable_medium_zoom:         true   # enables image zoom feature (as on medium.co
 # -----------------------------------------------------------------------------
 resume_avatar:                  "false"
 resume_name:                    "Shuvro Chakrobartty"
-resume_title:                   "Software and Data Engineering Leader"
+resume_title:                   "Software, Data & ML Engineering Leader"
 resume_contact_email:           "me@gmail.com"
 resume_header_contact_info:     ""
 resume_header_intro:            "<p>I have a history of successful leadership experiences designing and delivering innovative technology capabilities, which have resulted in significant business outcomes and organizational transformations that increased revenue, market share growth, and deepened customer engagement and brand loyalty.</p>"
