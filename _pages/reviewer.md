@@ -4,7 +4,7 @@ permalink: /reviewer/
 title: reviewer
 description: Professional conference and books for which I have reviewed submissions
 nav: false
-nav_order: 1
+nav_order: 2
 ---
 <table>
   {% for row in site.data.reviewer %}
