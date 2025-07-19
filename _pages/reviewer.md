@@ -2,7 +2,8 @@
 layout: reviewer
 permalink: /reviewer/
 title: reviewer
-description: Professional conference and books for which I have reviewed submissions
+description: I serve as a reviewer for submissions to professional conferences and academic publications, contributing my expertise to uphold quality and rigor in the field. Below are the conferences and books for which I have participated in the peer review process, helping to evaluate and select high-quality contributions in my area of specialization.
+
 nav: false
 nav_order: 2
 ---

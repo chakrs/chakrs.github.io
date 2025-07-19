@@ -4,11 +4,11 @@ permalink: /teaching/
 title: teaching
 #description: Materials for courses.
 nav: false
-nav_order: 1
+nav_order: 5
 ---
 
-I currently teach a graduate-level course at the University of Texas, Arlington. The course name is Data Warehouse and Business Intelligence.
+Adjunct Professor – University of Texas at Arlington
 
-In this course, students learn the full lifecycle of designing and developing data warehouse systems. We focus on building a solid understanding of OLAP (Online Analytical Processing) models and how they differ from OLTP (Online Transaction Processing) models. The curriculum is designed to provide students with both theoretical insights and practical experience.
 
-The course also delves into modern advancements in data management and engineering, such as Delta Lakes, Databricks File System (DBFS), Delta Live Tables, Data Orchestration, and Workflow Management. Hands-on demonstrations and practical assignments help students apply these technologies in real-world scenarios, ensuring they are well-prepared for careers in data engineering and business intelligence. 
+I currently serve as an adjunct professor at the University of Texas at Arlington, where I teach graduate-level courses in Data Warehouse & Business Intelligence and Data Engineering. My teaching focuses on bridging foundational data management principles with modern data engineering technologies, preparing students for real-world roles in analytics, business intelligence, and data platform development.
+
